@@ -1,0 +1,46 @@
+		
+		
+		footer {
+			  text-align: center;
+			  background-color: #7dceb9;
+			  border-radius: 10px 20px;
+			  padding: 20px;
+			}
+			
+		.about {
+			  text-align: center;
+			}
+			
+		h1 {
+			  font-family: "Courier New";
+			  text-transform: uppercase;
+			  letter-spacing: 0.2em;
+			}
+			
+		h2 {
+			  text-decoration: underline;
+			  font-family: "Courier New";
+			}
+			
+		h4 {
+			  text-decoration: underline;
+			}
+			
+		.child {
+			  background-color: #dee0fb;
+			  padding: 5%;
+			}
+			
+		.emergencycontact {
+			  background-color: #dee0fb;
+			  padding: 5%;
+			}
+			
+		.parents {
+			  background-color: #dee0fb;
+			  padding: 5%;
+			}
+			
+		.submit {
+			  text-align: center;
+			}
